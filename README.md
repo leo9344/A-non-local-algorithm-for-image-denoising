@@ -1,7 +1,8 @@
 # Non-Local Means Algorithm
 
-![image](https://img.shields.io/badge/author-Leo Li-blue.svg) 
+![image](https://img.shields.io/badge/Author-Leo%20Li-ff69b4) 
 
+Github Markdown有点问题，没法显示多行公式。下载下来之后用Typora等等打开就可以显示了
 实现了5种图像去噪算法：
 
 `Gaussian Filter` `Anisotropic Filter` `Total Variation Minimization` `Yaroslavsky Filter` `Non-Local Means`
